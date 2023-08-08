@@ -1,4 +1,4 @@
-### ✨ Who am ?
+### ✨ Who am I?
 
 My name is Peter and I’m a full stack web developer with a passion for building fun applications across a wide variety of interests. Check out my repos to find some of my latest projects.
 
